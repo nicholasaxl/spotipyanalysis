@@ -1,3 +1,3 @@
-# Spotipy songs and playlist analysis
+# Spotify mini analysis
 
-Analysing the trends and its causes through song features throughout the years. Done using a test dataset from kaggle.
+A quick analysis of the trends in music and its causes through song features throughout the years. Done using a test dataset from kaggle.
